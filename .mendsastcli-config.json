@@ -3,7 +3,7 @@
       "javaEngineGeneration": 2,
       "maxFileSize": 1029,
       "timeouts": {
-         "perScan": 3000
+         "perScan": 30
       }
     }
 }
