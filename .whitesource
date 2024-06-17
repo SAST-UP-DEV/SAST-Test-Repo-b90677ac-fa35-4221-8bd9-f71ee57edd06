@@ -12,7 +12,7 @@
   },
   "checkRunSettingsSAST": {
     "checkRunConclusionLevel": "failure",
-    "severityThreshold": "medium"
+    "severityThreshold": "high"
   },
   "issueSettings": {
     "minSeverityLevel": "NONE",
